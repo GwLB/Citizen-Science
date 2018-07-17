@@ -4,5 +4,6 @@ Doedat modif on Digivol available on https://github.com/AgentschapPlantentuinMei
 
 Zooniverse code available on https://github.com/zooniverse
 
-les herbonautes soon available here
+Les herbonautes soon available on https://github.com/dissco/herbonauts
+
 # Citizen-Science
